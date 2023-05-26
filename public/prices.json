@@ -1,0 +1,15 @@
+[  {    "id": 1,    "name": "Masala Tea",    "price": 25,    "features": ["Strong black tea", "Mixed with aromatic Indian spices"]
+  },
+  {
+    "id": 2,
+    "name": "Green Tea",
+    "price": 15,
+    "features": ["Light and refreshing", "Packed with antioxidants"]
+  },
+  {
+    "id": 3,
+    "name": "Black Tea",
+    "price": 10,
+    "features": ["Rich and full-bodied", "Perfect with milk and sugar"]
+  }
+]

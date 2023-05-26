@@ -1,0 +1,13 @@
+[
+    { "id": "S001", "name": "John Doe", "math": 78, "physics": 92, "chemistry": 85 },
+    { "id": "S002", "name": "Jane Smith", "math": 91, "physics": 85, "chemistry": 73 },
+    { "id": "S003", "name": "Bob Johnson", "math": 62, "physics": 76, "chemistry": 88 },
+    { "id": "S004", "name": "Sarah Lee", "math": 83, "physics": 77, "chemistry": 69 },
+    { "id": "S005", "name": "David Kim", "math": 95, "physics": 81, "chemistry": 90 },
+    { "id": "S006", "name": "Emily Chen", "math": 70, "physics": 65, "chemistry": 75 },
+    { "id": "S007", "name": "Tom Wilson", "math": 88, "physics": 93, "chemistry": 84 },
+    { "id": "S008", "name": "Lisa Brown", "math": 75, "physics": 84, "chemistry": 92 },
+    { "id": "S009", "name": "Alex Rodriguez", "math": 89, "physics": 79, "chemistry": 86 },
+    { "id": "S010", "name": "Maggie Lee", "math": 80, "physics": 87, "chemistry": 94 }
+  ]
+  
